@@ -1,7 +1,7 @@
 # wechat
 <<<<<<< HEAD
 
-999999
+2222
 >>>>>>> feature2
 
 ## Getting Started
