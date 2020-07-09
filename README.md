@@ -1,6 +1,6 @@
 # wechat
 
-222222
+11111
 
 ## Getting Started
 
